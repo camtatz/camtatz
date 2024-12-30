@@ -13,11 +13,11 @@
 
 👯 As far as my personal hobbies go I love to design boardgames and bake, specifically bread. You can also find me on the pickleball court.
 
-### [Check out my personal site to see more of my work](https://ctatz.com)
+## [**Check out my personal site to see more of my work**](https://ctatz.com)
 
 #### ⚡ Some of my (or ones I've contributed to) fun GitHub Repos:
 
-[**Draggin:**](https://github.com/camtatz/draggin) A daily word game written in React. Drag the words in the correct order to win. I really love word games and enjoy making weekly content for this game. I personally like this project for its simplicity and sleep design, and the emoji replay you can share once you win.
+📱 [**Draggin:**](https://github.com/camtatz/draggin) A daily word game written in React. Drag the words in the correct order to win. I really love word games and enjoy making weekly content for this game. I personally like this project for its simplicity and sleep design, and the emoji replay you can share once you win.
 <!--
 **camtatz/camtatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
