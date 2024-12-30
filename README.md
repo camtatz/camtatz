@@ -19,7 +19,7 @@
 
 📱 [**Draggin:**](https://github.com/camtatz/draggin) A daily word game written in React. Drag the words in the correct order to win. I really love word games and enjoy making weekly content for this game. I personally like this project for its simplicity and sleep design, and the emoji replay you can share once you win. [Play it!](https://ctatz.com/draggin)
 
-🤖 [**Neeko's Help:**](https://github.com/hschawe/NeekosHelp) A discord bot that with a plethora of commands to help you play Teamfight Tactics better. [Website](https://neekos-help-site-1o3u40fcr-camtatz.vercel.app/)
+🤖 [**Neeko's Help:**](https://github.com/hschawe/NeekosHelp) A python discord bot that with a plethora of commands to help you play Teamfight Tactics better. [Website](https://neekos-help-site-1o3u40fcr-camtatz.vercel.app/)
 
 <!--
 **camtatz/camtatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
