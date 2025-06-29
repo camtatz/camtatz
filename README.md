@@ -7,19 +7,20 @@
                                                                                            |___/                      
 </pre>
                            
-### 👋 I'm Cam Tatz. A developer currently located in Las Vegas! I enjoy working on all things software and game development, but specialize in the web and have nearly a decade of experience. 
+### I'm Cam Tatz. A developer currently located in Las Vegas! I enjoy working on all things software and game development, but specialize in the web and have nearly a decade of experience. 
 
-💬 I enjoy collaborating on open source and interesting projects. The technologies I commonly use are Javascript, TypeScript, React, Three.js/R3F, Next.js, Lua, Unreal Engine, C++ and Python. I'm currently learning Go.
+I enjoy collaborating on open source and interesting projects. The technologies I commonly use are Javascript, TypeScript, React, Three.js/R3F, Next.js, Lua, Unreal Engine, C++ and Python. I'm currently learning Go.
 
-👯 As far as my personal hobbies go I love to design boardgames and bake, specifically bread. You can also find me on the pickleball court.
+As far as my personal hobbies go I love to design boardgames and bake, specifically bread. You can also find me on the pickleball court.
 
 ## [**Check out my personal site to see more of my work.**](https://ctatz.com)
 
 #### ⚡ Some of my (or ones I've contributed to) fun GitHub Repos:
 |||
 | :----: | ------- |
-|📱 [Draggin:](https://github.com/camtatz/draggin) | A daily word game written in React. Drag the words in the correct order to win. I really love word games and enjoy making weekly content for this game. I personally like this project for its simplicity and sleep design, and the emoji replay you can share once you win. [Play it!](https://ctatz.com/draggin) |
-|🤖 [Neeko's Help:](https://github.com/hschawe/NeekosHelp) | A python discord bot that with a plethora of commands to help you play Teamfight Tactics better. [Website](https://neekos-help-site-1o3u40fcr-camtatz.vercel.app/) |
+|[Homepage:](https://ctatz.com) | A python discord bot that with a plethora of commands to help you play Teamfight Tactics better. [Website](https://ctatz.com) |
+|[Draggin:](https://github.com/camtatz/draggin) | A daily word game written in React. Drag the words in the correct order to win. I really love word games and enjoy making weekly content for this game. I personally like this project for its simplicity and sleep design, and the emoji replay you can share once you win. [Play it!](https://ctatz.com/draggin) |
+|[Neeko's Help:](https://github.com/hschawe/NeekosHelp) | A python discord bot that with a plethora of commands to help you play Teamfight Tactics better. [Website](https://neekos-help-site-1o3u40fcr-camtatz.vercel.app/) |
 
 <!--
 **camtatz/camtatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
